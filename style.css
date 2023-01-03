@@ -21,7 +21,8 @@ body {
     rgba(37, 45, 55, 0.5),
     rgba(37, 45, 55, 1)
   );
-  max-width: 300px;
+  min-width: 300px;
+  width: 320px;
   padding: 2.5em;
   position: absolute;
   top: 50%;
